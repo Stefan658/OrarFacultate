@@ -110,7 +110,7 @@ string seteazaFText(string specializare, int anStudiu, string numeSemigrupa)
         else if (numeSemigrupa == "3b")
             numeFisier = "SE_3_gr2s.txt";
     }
-
+   return numeFisier;
 }
 
 string completeazaInfo(const string& disciplina, const string& sala, char tipActivitate)
