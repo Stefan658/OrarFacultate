@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1686641793 source:c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<regex>
+	<string>
+	<algorithm>
+	<cctype>
+	"Tabel.h"
+	"Semigrupa.h"
+	"Sala.h"
+
+1686641847 c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\include\tabel.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1686641878 c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\include\semigrupa.h
+	<iostream>
+	<string>
+
+1686641791 c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\include\sala.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<regex>
+	"Tabel.h"
+
+1686641789 source:c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\src\sala.cpp
+	"Sala.h"
+
+1686641890 source:c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\src\semigrupa.cpp
+	"Semigrupa.h"
+
+1686641845 source:c:\date\facultate\anul ii\7 mn\laboratoare\orarfacultate\src\tabel.cpp
+	"Tabel.h"
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1686738235 source:c:\date\facultate\anul ii\12 pclp3\orarfacultate\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<regex>
+	<string>
+	<algorithm>
+	<cctype>
+	"Tabel.h"
+	"Semigrupa.h"
+	"Sala.h"
+
+1686641847 c:\date\facultate\anul ii\12 pclp3\orarfacultate\include\tabel.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1686641878 c:\date\facultate\anul ii\12 pclp3\orarfacultate\include\semigrupa.h
+	<iostream>
+	<string>
+
+1686641791 c:\date\facultate\anul ii\12 pclp3\orarfacultate\include\sala.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<regex>
+	"Tabel.h"
+
+1686738237 source:c:\date\facultate\anul ii\12 pclp3\orarfacultate\src\sala.cpp
+	"Sala.h"
+
+1686641890 source:c:\date\facultate\anul ii\12 pclp3\orarfacultate\src\semigrupa.cpp
+	"Semigrupa.h"
+
+1686641845 source:c:\date\facultate\anul ii\12 pclp3\orarfacultate\src\tabel.cpp
+	"Tabel.h"
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+

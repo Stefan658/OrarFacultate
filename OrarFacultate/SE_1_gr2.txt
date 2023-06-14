@@ -1,0 +1,12 @@
+ - ; TCE (D107) S ;EIM (Amf NB) C ; FIZ2 (Amf DH) C ; InA (Amf DH) C ;
+ - ; TCE (D107) S ;EIM (Amf NB) C ; FIZ2 (Amf DH) C ; InA (Amf DH) C ;
+MS (Aula) C ;EIM (D106) S; Com (Amf NB) S; - ; InA (Amf DH) C ;
+MS (Aula) C ;EIM (D106) S; Com (Amf NB) S; - ; - ;
+ - ; Chimie (B004) L ; Chimie (Amf NB) C ; EdFiz (Bazin) S ; - ;
+ - ; Chimie (B004) L ; Chimie (Amf NB) C ; EdFiz (Bazin) S ; - ;
+ - ; TCE (Amf NB) C ; - ; - ; - ;
+ - ; TCE (Amf NB) C ; - ; - ; - ;
+ - ; TCE (Amf NB) C ; - ; - ; - ;
+ - ; TCE (D009) L ; - ; - ; - ;
+FIZ2 (D008) L ; TCE (D009) L ; MS (D106) S ; InA (C003) L ; - ;
+FIZ2 (D008) L ; - ; MS (D106) S ; InA (C003) L ; - ;

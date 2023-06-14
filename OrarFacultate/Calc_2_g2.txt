@@ -1,0 +1,12 @@
+MN (Amf RR) C ; - ; - ; - ; - ;
+MN (Amf RR) C ; - ; - ; - ; - ;
+PIU (Amf RR) C ; PCLP3 (D205) L ; - ; MN (D113) L ; MEST (C104) L ;
+PIU (Amf RR) C ; PCLP3 (D205) L ; DEEA2 (Amf DH) C ; MN (D113) L ; MEST (C104) L ;
+PIU (Amf RR) C ; - ; DEEA2 (Amf DH) C ; PIU (C202) L ; ED (C305) L ;
+ - ; - ; DEEA2 (Amf DH) C ; PIU (C202) L ; ED (C305) L ;
+ - ; MEST (Aula) C ; EdFiz (Teren) S ; DEEA2 (C109) L ; - ;
+ - ; MEST (Aula) C ; EdFiz (Teren) S ; DEEA2 (C109) L ; - ;
+ - ; ED (Aula) C ; POO (C004) pr/ - ; - ; - ;
+ - ; ED (Aula) C ; - ; - ; - ;
+ - ; ED (Aula) C ; PCLP3 (Amf RR) C ; - ; - ;
+ - ; ED (Aula) C ; PCLP3 (Amf RR) C ; - ; - ;

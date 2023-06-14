@@ -1,0 +1,12 @@
+ME1 (Amf NB) C ; - ; ME1 (C003) pr ; EAD2 (Amf NB) C ; - ;
+ME1 (Amf NB) C ; Engl3 (D010) S ; ME1 (C003) pr ; EAD2 (Amf NB) C ; - ;
+ME1 (Amf NB) C ; Engl3 (D010) S ; MEE (C104) L ; MN (Amf NB) C ; - ;
+MEE (Amf NB) C ;  - ; MEE (C104) L ; MN (Amf NB) C ; - ;
+MEE (Amf NB) C ; - ; EdFiz (Bazin) S ; MEE (C103) S ; - ;
+MEE (Amf NB) C ; - ; EdFiz (Bazin) S ; MEE (C103) S ; - ;
+- ; TSRA (C101) L ; - ; - ; - ;
+- ; TSRA (C101) L ; - ; - ; - ;
+- ; EAD (C305) L ; - ; MN (C005) L ; - ;
+TSRA (Amf RR) C ; EAD (C305) L ; - ; MN (C005) L ; - ;
+TSRA (Amf RR) C ; ME1 (C002) L ; - ; - ; - ;
+TSRA (Amf RR) C ; ME1 (C002) L ; - ; - ; - ;

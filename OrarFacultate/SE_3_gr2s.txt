@@ -1,0 +1,12 @@
+CSSE (C001) L ; CSSE (C001) C ; AE (C001) L ; SNPE (C001) C  ;TP (CH2) L ;
+CSSE (C001) L ; CSSE (C001) C ; AE (C001) L ; SNPE (C001) C  ; TP (CH2) L ;
+- ; CSSE (C001) C ; TP (CH2) C ; - ; - ; 
+- ; EE2 (Amf NB) C ; TP (CH2) C ; - ; - ; 
+SNPE (C001) L ; EE2 (Amf NB) C ; TP (D107) S ; AE (Amf NB) C ; - ;
+SNPE (C001) L ; EE2 (Amf NB) C ; TP (D107) S ; AE (Amf NB) C ; - ;
+PTDEE (C103) L ; EFS (Teren) S ; - ; - ; - ;
+PTDEE (C103) L ; - ; - ; - ; - ;
+ - ; - ; EE2 (C107) L ; - ; - ; 
+ -  ; - ; EE2 (C107) L ; - ; - ; 
+PTDEE (C103) C /- ; - ; AE (CH1) pr ; - ; - ; 
+PTDEE (C103) C /- ; - ; AE (CH1) pr ; - ; - ; 

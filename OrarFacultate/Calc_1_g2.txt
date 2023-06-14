@@ -1,0 +1,12 @@
+FIZ (Aula) C ; PCLP2 (Amf DH) C ; - / ETH (D107) S ; - ; - ;
+FIZ (Aula) C ; PCLP2 (Amf DH) C ; - / ETH (D107) S ; - ; - ;
+MS (Aula) C ; PCLP2 (Amf DH) C ; EdFiz (Teren) S ; Engl2 (D010) S ; FIZ1 (D008) L ;
+MS (Aula) C ; PCLP2 (C 204) L ; EdFiz (Teren) S ; Engl2 (D010) S ; FIZ1 (D008) L ;
+ - ; PCLP2 (C 204) L ; - ; AT (C207) ; ETH (D009) L ;
+ASC (Amf RR) C ; PCLP2 (C 204) L ; - ; AT (C207) ; ETH (D009) L ;
+ASC (Amf RR) C ; - ; - ; ETH (D009) S ; - ;
+ASC (Amf RR) C ; - ; -; ETH (D009) S ; - ;
+ETH (Amf NB) C ; - ; - ; - ; - ;
+ETH (Amf NB) C ; ASC (C 405) L ; - ; - ; - ;
+ETH (Amf NB) C ; ASC (C 405) L ; - ; - ; - ;
+- ; ASC (C 405) L ; -; - ; - ;

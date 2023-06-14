@@ -1,0 +1,12 @@
+ - ; - ; PAIg (Amf RR) C ; - ; IA (C202) L;
+ - ; - ; PAIg (Amf RR) C ; - ; IA (C202) L;
+ - ; - ; PAIg (Amf RR) C ; - ; BD (C209) L ;
+ - ; - ; IA (Amf RR) C ; PAWEB (Amf DH) C ; BD (C209) L ;
+PNI (C204) L ; - ; IA (Amf RR) C ; PAWEB (Amf DH) C ; - ;
+PNI (C204) L ; BD (Amf RR) C ; IA (Amf RR) C ; PAWEB (Amf DH) C ; - ;
+PAIg (C209) L ; BD (Amf RR) C ; - ; - ; - ;
+PAIg (C209) L ; BD (Amf RR) C ; - ; PNI (Amf DH) C; - ;
+PAWEB (C207) L ; EGC (C204) pr ; - ; PNI (Amf DH) C; - ;
+PAWEB (C207) L ; - ; - ; PNI (Amf DH) C; Engl4 (D010) S ;
+ - ; - ; - ; - ; Engl4 (D010) S ;
+ - ; - ; - ; - ; - ;
